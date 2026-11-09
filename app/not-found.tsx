@@ -1,0 +1,1 @@
+export default function NotFound() { return <main className="not-found"><span className="eyebrow">404 / PAGE NOT FOUND</span><h1>A different direction.</h1><p>This page isn’t in our catalogue. Let’s get you back to the light.</p><a href="/" className="button">Back to home ↗</a></main>; }
