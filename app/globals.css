@@ -14,3 +14,4 @@
 @media(max-width:760px){.product-concept{font-size:6px}.product-category{font-size:8px}.product-image-top{font-size:7px}.catalog-note{font-size:9px}.category-list button.selected{color:#fff}.brand-visual .image-label{right:150px;line-height:1.5}}
 @media(max-width:390px){.product-image-top{font-size:6px}.product-category{font-size:7px}.product-concept{font-size:5px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition:none!important;animation:none!important}}
+.product-photo{width:100%;height:100%;object-fit:contain;padding:36px;transition:transform .4s}.detail-photo{padding:45px}.product-card:hover .product-photo{transform:translateY(-5px) scale(1.04)}
